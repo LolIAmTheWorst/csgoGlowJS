@@ -1,0 +1,21 @@
+{
+  "name": "csgoJScheat",
+  "version": "0.1.0",
+  "author": "your name",
+  "description": "My Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1",
+    "electron-packager": "^15.2.0"
+  },
+  "dependencies": {
+    "iohook": "^0.7.2",
+    "memoryjs": "^3.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
